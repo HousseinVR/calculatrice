@@ -1,0 +1,60 @@
+.btn{
+    margin: 10px;
+    width: 4rem;
+    height: 4rem;
+    background-color: rgb(135, 197, 187);
+}
+.btn2{
+    margin: 10px;
+    width: 4rem;
+    height: 4rem;
+    background-color: rgb(103, 143, 136);
+}
+.calculator{
+    background-color: rgb(173, 173, 173);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-top: solid 2px rgb(93, 112, 108);
+    border-left: solid 2px rgb(93, 112, 108);
+    border-right: solid 2px rgb(93, 112, 108);
+    width: 400px;
+    margin: auto;
+    height: 350px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 10px 10px 0 10px;
+}
+.containerResult{
+    background-color: rgb(173, 173, 173);
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom: solid 2px rgb(93, 112, 108);
+    border-left: solid 2px rgb(93, 112, 108);
+    border-right: solid 2px rgb(93, 112, 108);
+    height: 60px;
+    width: 400px;
+    margin: auto;
+    padding: 0px 10px 10px 10px;
+    text-align: center;
+}
+.divResult{
+
+    margin: auto;
+    width: 300px;
+    height: 50px;
+    background-color: #fff;
+    border-radius: 5px;
+    border: solid 2px rgb(93, 112, 108);
+}
+.myDiv1{
+    width: 75%;
+    height: 350px;
+    text-align: center;
+    
+}
+.myDiv2{
+    width: 25%;
+    height: 350px;
+}
